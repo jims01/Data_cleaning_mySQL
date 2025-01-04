@@ -1,5 +1,5 @@
-# Staff Layoffs Analysis (2020–2023)
-
+# **Staff Layoffs Analysis (2020–2023)**
+---
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
@@ -14,7 +14,7 @@
 
 
 ### Project Overview
-
+---
 This project analyzes global staff layoffs from 2020 to 2023 to provide insights into trends and patterns during this period. It focuses on identifying monthly and cumulative layoffs and ranking the top 5 companies with the highest layoffs in each year.
 
 ### Dataset
@@ -28,7 +28,7 @@ The primary dataset used for this analysis is "layoffs.csv", containing global l
 
 ### Data cleaning 
 
-In the initial data preparation phase, the following tasks were performed:
+*In the initial data preparation phase, the following tasks were performed:*
 
 1. Created a staging dataset: Organized raw data for processing.
 2. Removed duplicates: Ensured unique records in the dataset.
@@ -68,13 +68,13 @@ The analysis results are summarized as follow:
 - The total layoff between 2020 and 2023: 383,159
 - The total number of company that shutdown: 116
   
-Top 5 country with the most Lay offs for;
+*Top 5 country with the most Lay offs for;*
 - 2020: United states, India, Netherlands, Brazil and Singapore.
 - 2021: United states, india, China, Germany and Canada
 - 2022: United States, India, Netherlands, Brazil and Canada
 - 2023: United States, Sweden, Netherlands, India and Germany
   
-Top 5 company with the most lay offs for ;
+*Top 5 company with the most lay offs for;*
 - 2020: Uber, Booking.com, Groupon, Swiggy and Arbirb.
 - 2021: Bytedance, Katerra, Zillow, InstaCart and WhiteHat Jr
 - 2022: Meta, Amazon, Cisco, Pleoton and Carvana/Philips
